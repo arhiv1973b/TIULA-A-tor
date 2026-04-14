@@ -1,0 +1,19 @@
+﻿{
+  "vector": "KIDNAPPING-TO-TORTURE",
+  "detention_timeline": {
+    "actual_seizure": "2007-07-23",
+    "legal_facade": "2007-07-24",
+    "actors": "Morozan G. (Judge), OUP CPs Riscani",
+    "gap": "24 hours of extrajudicial detention"
+  },
+  "evidence_manipulation": {
+    "item": "White capsule (6-4)",
+    "claimed_weight": 0.0125,
+    "reality": "Non-existent capsule / Fabricated quantity",
+    "purpose": "Coercion into false testimony (Art. 1-983/07 Oleinik)"
+  },
+  "legal_status": {
+    "vienna_convention_art_53": "VOID",
+    "echr_violation": "Art. 3 (Torture), Art. 5 (Liberty)"
+  }
+}
